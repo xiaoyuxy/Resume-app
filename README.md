@@ -25,12 +25,12 @@ Java file :
 - MainActivity.java: application entrance
 - CircleTransform.java: mainly to resize the avatar
 - Resume.java:parse the json file into lists
-- UI:Education.java
-   Work.java
-   Project.java
-   Award.java
-   Share.java
-   Send.java
+- UI:\*Education.java
+   \*Work.java
+   \*Project.java
+   \*Award.java
+   \*Share.java
+   \*Send.java
 
 Assets folder: 
 - resume.json : data json file, replace your own resume here
