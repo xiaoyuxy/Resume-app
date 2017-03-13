@@ -35,7 +35,8 @@ Java file :
 Assets folder: 
 - resume.json : data json file, replace your own resume here
 
-Res folder:all the xml file are store in this folder
+Res folder:
+- all the xml file are store in this folder
 
 Mainfests folder:
 - AndroidMainfest.xml : category of my app
