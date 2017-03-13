@@ -1,5 +1,6 @@
 # Resume-app
 This is an android mobile application developed by an android studio. This app mainly uses to show personal resume through mobile, to showcase some of the newer Material Design features, third-party libraries, etc. The data in this app is independent with UI. You can instead of the content for your resume via JSON file.
+
 # Components
 This application including:
 - Homepage: The brief introduction of myself
@@ -9,14 +10,16 @@ This application including:
 - Project Page: list school project experiences
 - Awards Page: show awards
 - Share feature: share my resume
-- Send me Email feature: contact me through Email
+- Send me Email feature: contact me through Email.
+
 # Library
 This application uses below library:
 - Picasso
 - appcompat
 - design
 - recyclerview
-- junit
+- junit.
+
 # Code 
 Java file :
 -MainActivity.java: application entrance
