@@ -22,10 +22,10 @@ This application uses below library:
 
 # Code 
 Java file :
--MainActivity.java: application entrance
--CircleTransform.java: mainly to resize the avatar
--Resume.java:parse the json file into lists
--UI:Education.java
+- MainActivity.java: application entrance
+- CircleTransform.java: mainly to resize the avatar
+- Resume.java:parse the json file into lists
+- UI:Education.java
    Work.java
    Project.java
    Award.java
@@ -33,15 +33,15 @@ Java file :
    Send.java
 
 Assets folder: 
--resume.json : data json file, replace your own resume here
+- resume.json : data json file, replace your own resume here
 
 Res folder:all the xml file are store in this folder
 
 Mainfests folder:
--AndroidMainfest.xml : category of my app
+- AndroidMainfest.xml : category of my app
 
 Gradle Scripts: 
--app libraries are declared here
+- app libraries are declared here
    
 
 
