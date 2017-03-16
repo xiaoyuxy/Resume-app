@@ -1,0 +1,37 @@
+{"resume":{
+   "home page" : {
+      "name":"Xiaoyu Liang",
+      "avatar":"https://lh3.googleusercontent.com/-pEO4tPdIuHY/Vlaysza4etI/AAAAAAAAAAw/McEOIqwoKOgxxi428g74I6EoL6SZ7GJzACEw/w278-h280-p/IMG_7248.JPG",
+      "intro":{
+         "title": "SOFTWARE ENGINEERING",
+         "content":"SOFTWARE ENGINEERING \n\nPursuing a Master degree of Science in Computer Engineering. Two years work experiences as Engineer. Seeking opportunities in Software Engineer"
+      }
+   },
+   "navHeader": {
+      "background":"http://api.androidhive.info/images/nav-menu-header-bg.jpg",
+      "writer":"Xiaoyu Liang",
+      "web":"www.xiaoyuliang.com"
+   },
+   "page" :[
+      {
+         "page":"education",
+         "url":"https://cmpe.sjsu.edu/files/public/tower-hall.jpg",
+         "detail":"San Jose State University \n\n01/2016 - Current\n\n• Master of Computer Engineering"
+      },
+      {
+         "page" : "work",
+         "url":"https://www.w3schools.com/css/trolltunga.jpg",
+         "detail":"TCL Research Research Assistant\n\n10/2016 - Current\n\n• Developed RESTful API in Python flask framework to provide services to parse natural language\n\n• Prepared testing plan and test cases, including performance testing using Python line_profiler\n• Tech stack: RESTful, Python, Flask, WebService, NLP"
+      },
+      {
+         "page" : "project",
+         "url":"http://i.imgur.com/RRUe0Mo.png",
+         "detail": "Data virtualization for ITS of San Francisco\n\n09/2016 - 12/2016\n\n• Developed a website to share real-time public transportation information of SF, including real time buslocation and speed, available bikes and empty docks \n• Used Google Maps API to provide map and route planner\n\n• Tech stack: JavaScript, D3JS, heat map, Google Chart, Highcharts, Google Maps, JSON, AWS, Bootstrap, grunt"
+      },
+      {
+         "page": "awards",
+         "url" : "http://a.abcnews.com/images/Technology/ht_carina_nebula_ss_jp_120208_ssh.jpg",
+         "detail" : "• Second prize of innovation contest, global scale, Ericsson China Ltd. \n\n02/2015\n\n• First-class scholarship, University level\n\n07/2012"
+      }
+      ]
+}}

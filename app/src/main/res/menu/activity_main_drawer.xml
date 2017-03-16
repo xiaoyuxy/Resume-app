@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_education"
+            android:icon="@drawable/ic_menu_education"
+            android:title="Education" />
+        <item
+            android:id="@+id/nav_work"
+            android:icon="@drawable/ic_menu_work"
+            android:title="Work" />
+        <item
+            android:id="@+id/nav_project"
+            android:icon="@drawable/ic_menu_project"
+            android:title="Project" />
+        <item
+            android:id="@+id/nav_award"
+            android:icon="@drawable/ic_menu_award"
+            android:title="Award" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_email"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Email me" />
+        </menu>
+    </item>
+
+</menu>

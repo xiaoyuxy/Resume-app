@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_e30445474b13f948c85e91c38410c53b618fcac4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_6ce9483e7a854e60a01a12a711d98b28655c32bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_1b94185c1234b79b2b13be42d0cc76c826fe352e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5254e8bd795211d8729c1ae4039eace1ce71e62e">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_39e164b892faa2f572b9cc78b4aed2c6df2b2d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_c0bfee18fc28ee1fa09c943ea451ac7d78b63c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_5ab8408a19fb05ddd7cc8903ded44a31d66f0074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_b82a22db9755e126bfda11987943a0f6445cf7e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c77af20f2541d527d2b9ba3b6ebcdfbd1203126b">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_717bd9f88a69853175c38841f6cd75c7b21dec37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_66f1cadce9487f1bf82a7f095d559f57f771ef5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_e78c22fa4a3816ed7605e186ae8680ec84466b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_9c32c837102b262897f57260f51dfd500b477c03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_a49328982613fed33f486dadc09c41aa53319592/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_c61b5de2c7fbbf1cb6972814594826b0168a6b6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_7c817b676a84dbf36855b3453077653774abdd97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_178a26560d036120e08793154bf225463fcac432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/xiaoyuliang/courses/277/xiaoyuResume/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_f132fbbca2999b7025dffecfd5201b761f9e0589/classes.dex" />
+    </item>
+
+</items>
